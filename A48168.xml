@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend in answer to A letter to a dissenter upon occasion of His Majesties late gracious declaration of indulgence.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48168</idno><idno type="EEBO-CITATION">15667328</idno>
+  <idno type="VID">104326</idno>
+  <idno type="EEBO-PROQUEST">2248512296</idno>
+  
+            <idno type="STC">Wing L1646</idno>
+            <idno type="STC">ESTC R36353</idno>
+            <idno type="OCLC">15667328</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104326)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend in answer to A letter to a dissenter upon occasion of His Majesties late gracious declaration of indulgence.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Halifax, George Savile, --  Marquis of, 1633-1695. --  Letter to a dissenter.</term>
+               <term type="corporate_name">England and Wales. --  Sovereign (1685-1688 : James II). --  His Majesties gracious declaration to all his loving subjects for liberty of conscience.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104326:1"/>
+            <head>A LETTER To a FRIEND, In Answer to <hi>A Letter to a Dissenter,</hi> Upon occasion of His Majesties late Gracious Declaration of Indulgence.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am not a little surpriz'd to find you so Urgent upon me, to give you my Sense of a late Pamphlet, Entituled, <hi>A Letter to a Dissenter,</hi> &amp;c. You know there is no Man more Averse from the humour of Scribling than my self; and you know too, That some Returns have been made to that Paper alrea<g ref="char:EOLhyphen"/>dy, and more are like to follow. I can't be of the honest Man's mind, that told me, Peoples talk of <hi>Five Senses,</hi> was but an idle Story; there was but <hi>One,</hi> and that was <hi>Feeling:</hi> But really Sir, If Men will not trust the Sense of <hi>Feel<g ref="char:EOLhyphen"/>ing,</hi> I know not which they will abide by, and if we foregoe the Evidence of <hi>All Sense,</hi> we may, for ought I see, give up one good Argument against Transubstantiation: And yet, I must freely tell you, I should have been tempted to think the Dissenters such stupid Creatures, as wanted even the <hi>Sense of Feeling,</hi> if they had not by all pos<g ref="char:EOLhyphen"/>sible means exprest their Thankfulness to His Majesty, for His <hi>Gracious Declaration of Indulgence,</hi> which at once reliev'd them from Burthens, as Innumerable, as In<g ref="char:EOLhyphen"/>supportable.</p>
+            <p>If I had not found by the Close of yours, That you lay some weight upon the In<g ref="char:EOLhyphen"/>sinuations of <hi>Indirect Means,</hi> used to procure the late <hi>Addresses;</hi> I should have thought it Answer enough to your general Demand, to have told you, I have no Opinion of the Discourse, you say is so much Admir'd by others; for I am not able to resolve you whether it was design'd for a Libel upon the <hi>Government,</hi> or upon <hi>Dissenters;</hi> the Reproach of both being carried on with so even a Thread thro' the whole.</p>
+            <p>But this I must tell you, I know the World too well, to be Trick't out of my Sen<g ref="char:EOLhyphen"/>ses by the Charmes of handsome Metaphors, and labour'd Sentences. I will puzzle the best Oratour (without the assistance of Paenal Laws) to make a Man believe <hi>the Crow is White:</hi> And yet, I take not that Task to be so difficult, as to perswade the Dissenters, <hi>That all the former Haughtiness of the Church of</hi> England <hi>towards them, is for ever extinguish'd;</hi> when they are told in the next Paragraph, That this Potent Go<g ref="char:EOLhyphen"/>verness, can <hi>darken the Heavens</hi> when she pleases, <hi>Turn the Royal Thunder upon their Heads, and blow them off the Stage with a Breath;</hi> and all this with no more trouble than a <hi>Smile,</hi> or a <hi>kind Word</hi> bestowed on some-body. 'Tis pitty her untimely Kind<g ref="char:EOLhyphen"/>ness for Dissenters, will not allow her so much as a good look towards her Soveraign, nor her boasted Loyalty encline her to one <hi>Glimpse of Complyance,</hi> with the Prince's Design to make all his Subjects <hi>Easie!</hi>
+            </p>
+            <p>But the Dissenters will readily tell her, for all her Threats; they can safely trust the <hi>Royal Word,</hi> and despise her Attempts, to obtain the Violation of it. I have ob<g ref="char:EOLhyphen"/>serv'd some to read that Passage with a scornful Smile, and say, <hi>That Danger's past already,</hi> for there has been no Stone left unturned, to bring about what they now Threaten: But all Attempts have proved Vain; and they can no more perswade His Majesty to Violate His <hi>Sacred Promise,</hi> than they can us, that themselves will become good Natur'd, if they have Power left them to do Mischief.</p>
+            <p>You see, when ones Hand is in, 'tis hard to forbear more Animadversions upon a <hi>Criminal Paper,</hi> then perhaps you expect from me; for I perceive by what is mark<g ref="char:EOLhyphen"/>ed in that you sent, you design'd me no other Task, than to reflect on those Passa<g ref="char:EOLhyphen"/>ges which you think may touch the Reputation of my self, and some of my Friends: You say, many think that divers of the Addressers (especially the first of them) were employ'd and manag'd by Court-Agents, and as they were directed, drew in other well-meaning People, to do as they had done, and were well paid too for their Pains: And now this passes for Current News, since such a Gentleman hath intimated to the World, <hi>That the Mediators of this New Alliance, are such as have been formerly em<g ref="char:EOLhyphen"/>ploy'd in Treaties of the same kind, and there detected to Act by Order, and to have been
+<pb facs="tcp:104326:2"/> empower'd to give Encouragements and Rewards,</hi> &amp;c. <hi>And how if those very Men that have formerly sprinkled Money among the Dissenting Ministers, should now have the same Au<g ref="char:EOLhyphen"/>thority, Practice the same Methods, and disburse where they cannot otherwise perswade; and the Ministers that are once fallen under this Temptation, are in some sort engag'd to continue their Frailty, by the awe they are in, least it should be expos'd,</hi> &amp;c. And you say, this Suggestion takes the more, because the first Addressers were <hi>Anabaptists.</hi>
+            </p>
+            <p>Indeed Sir, if these Passages had not been mark't with your Pen, I should have e<g ref="char:EOLhyphen"/>steem'd them more worthy of Contempt then any Reply. Innocence you know is always Bold, and renders Men regardless of the slie Insinuations of Malevolent Tongues: But seeing you are pleas'd to point me to them, because (as you say) I was one of the First, that had my Hand in Addressing, and can best tell what <hi>Truth</hi> there may be in them: I beseech you (if you can find him) give my Service to our New-Addresser, and tell him he will mightily Oblige me, by a particular account of the Mediators of this New-Allyance, and of the Persons among whom they have sprin<g ref="char:EOLhyphen"/>kled the Money, allow'd for this good Service: For I'le assure you (if what he says be true) I am cheated of my Part, to this Day.</p>
+            <p>But to be serious: The whole of these Insinuations, makes up but one <hi>Putid Ca<g ref="char:EOLhyphen"/>lumny.</hi> You know I was one that Presented the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irst Address to His Majesty, and I know full well, all the Persons concern'd in, and the whole manage of that Af<g ref="char:EOLhyphen"/>fair: And I Challenge the Author of this Libel, to make good his Charge against us, or any other, concern'd in like Dutiful Return of Thanks to His Majesty: Let him expose us if he can: Let him produce but some shadow of Likelyhood (I will not say Proof) that we were either Solicited or Brib'd, to do what we did, and it shall excuse him; or else he cannot but Fall under the foul Disgrace of a Slanderer. And as I certainly know his Intimations of us to be False; so I have Reason to Believe his Suggestions of like Practises in former Times, to be Malicious and Untrue.</p>
+            <p>Doe's he think the Dissenters have no sense of Royal Bounty, to quicken them to their Duty? Or that they can Receive a new Life from their Prince, and not Thank Him for it, without a Reward? If some Men can hardly be Induc'd to Thank the King for <hi>their Possessions,</hi> unless they had their former Freedom to Address Him for the <hi>Utter Extirpation of Phanaticks,</hi> must other Mens Corn, be Measur'd by their Bushel? No! I can assure him our Hearts were too full of Joy, upon the first Notice of the King's Mercy towards us, to admit our waiting for any Invitations un<g ref="char:EOLhyphen"/>to Gratitude.</p>
+            <p>But it seems our Friend is concern'd, that we can more readily Comply with Prescrib'd <hi>Forms of Addressing,</hi> than a <hi>Form of Prayer.</hi> Verily, as the sense of our former Misery, under the Late Persecutions, taught us to pray without a Liturgie, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them: So the abounding Grace of His Majesties Indulgence, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Thanks for it, both to God and Him, <hi>Sine monitore quia ex anime.</hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> him again, to give the Instance of one Address, fram'd for the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon them by other Hands.</p>
+            <p>Let him assign <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Place where <hi>the Tired Post-Horses, arrived <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Letters</hi> to solicit Addresses, and Name the Persons that were either <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or Fright<g ref="char:EOLhyphen"/>ed</hi> into a Compliance with them; or else all his Florid Language can never excuse him, from the Guilt of the most <hi>ill-natur'd Calumny.</hi>
+            </p>
+            <p>If you think <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Expressions too Tart, you must remember, That a Man's good Name is as dear to him as the Apple of his Eye; yet I could not have been mov'd to this Roughness, if these Intimations had not reflected as much upon the King and His Ministers, as upon our selves.</p>
+            <p>Perhaps the Gentleman's Design in part, may be to frighten all Dissenters from en<g ref="char:EOLhyphen"/>tring into any kind of Employment under His Majestie, least they should be Brand<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as Mercenary Tools, by him, for enjoying His Majesties Favour: But as they stand in this respect, on equal ground with their Fellow-Subjects, and may be as capa<g ref="char:EOLhyphen"/>ble of Business as their Neighbors; I hope none of them will be so silly as to think, That their being Joynt-Partakers with others, in their Prince's good Opinion, can make them Criminal. I dare say they envy not the Favours, that Royal Bounty hath heap'd upon any: Long may they enjoy them; and never may Dissenters have any share with them, if they suffer themselves to be fool'd out of their Interest, or with<g ref="char:EOLhyphen"/>drawn from their Duty, by any Artifice whatsoever.</p>
+            <p>I have now done, and you must thank your self for forcing me to give you this Trouble: You need not be shie of Importing this where you think it fit, for I have only sent you a Brief View of what shall be further inforc'd, if you shall require it from</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your very Humble Servant</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Harris,</hi> at the <hi>Harrow</hi> against the Church in the <hi>Poultrey, 1687.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
